@@ -1,6 +1,6 @@
 # Ether js Simple Storage Contract
 
-In this dapp i create a simple storage contract and deploy it in Rinkeby testnet using ether.js.
+In this dapp I create a simple storage contract and deploy it in Rinkeby testnet using ether.js.
 And Manually verify this contract.
 
 # Link to the deployed contract in Rinkeby Testnet
