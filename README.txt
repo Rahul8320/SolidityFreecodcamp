@@ -1,4 +1,3 @@
-
 # Web3, Full Stack Solidity, Smart Contract & Blockchain
 
 Learing Solidity from freecodecamp full course tutorial.
