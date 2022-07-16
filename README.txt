@@ -1,3 +1,13 @@
+
+# Web3, Full Stack Solidity, Smart Contract & Blockchain
+
+Learing Solidity from freecodecamp full course tutorial.
+
+# YouTube Video Link
+
+https://www.youtube.com/watch?v=gyMwXuJrbJQ
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
