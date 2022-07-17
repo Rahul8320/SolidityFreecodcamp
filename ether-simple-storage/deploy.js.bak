@@ -19,7 +19,7 @@ async function main() {
   const preNum = await contract.getFavNum();
   console.log("Previous favorite number : ", preNum.toString());
   await contract.store("26");
-  await contract.deployTransaction.wait(3);
+  await contract.deployTransaction.wait(1);
   const currNum = await contract.getFavNum();
   console.log("Current favorite number : ", currNum.toString());
 }
