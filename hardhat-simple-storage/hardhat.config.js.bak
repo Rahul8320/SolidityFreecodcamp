@@ -26,4 +26,7 @@ module.exports = {
     coinmarketcap: process.env.COINMARKETCAP_API_KEY,
     // token: "MATIC",
   },
+  coverage: {
+    outputFile: "sol-coverage.txt"
+  }
 };
